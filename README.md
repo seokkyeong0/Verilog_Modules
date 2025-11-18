@@ -1,5 +1,5 @@
-# Verilog Basic Modules
-Verilog로 작성한 디지털 회로의 기본 모듈 리스트입니다. 프로젝트나 학습 시 참고하세요.
+# Verilog Modules
+- Useful Modules
 
 ## Module List
 - [x] Half Adder
