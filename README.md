@@ -10,4 +10,4 @@
 - [ ] SPI
 - [ ] I2C
 - [x] APB
-- [ ] AXI-Lite
+- [x] AXI-Lite
