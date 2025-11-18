@@ -9,5 +9,5 @@
 - [x] UART
 - [ ] SPI
 - [ ] I2C
-- [ ] APB
+- [x] APB
 - [ ] AXI-Lite
