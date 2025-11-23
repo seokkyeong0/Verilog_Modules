@@ -11,3 +11,4 @@
 - [ ] I2C
 - [x] APB
 - [x] AXI-Lite
+- [ ] SCCB Master (OV7670)
