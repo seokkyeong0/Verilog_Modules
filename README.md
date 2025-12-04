@@ -13,3 +13,5 @@
 - [x] AXI-Lite
 - [x] SCCB Master (OV7670)
 - [x] BMP Tester
+- [ ] Line Buffer Controller
+- [ ] Down Scaler IP
