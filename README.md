@@ -14,3 +14,4 @@
 - [x] SCCB Master (OV7670)
 - [x] BMP Tester
 - [x] Down Scaler
+- [x] UART UVM Verification
